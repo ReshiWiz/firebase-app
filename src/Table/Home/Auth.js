@@ -34,7 +34,7 @@ export default function Auth() {
               <h1
                 style={{
                   textAlign: "center",
-                  border: "2px solid #000",
+                  border: "1px solid #000",
                   backgroundColor: "#FF00FF",
                 }}
               >
